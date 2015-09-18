@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="edu.rosehulman.chatapp"
+      label="Rose-Hulman Chat Application"
+      version="1.0.0.alpha"
+      provider-name="Jessica Kassal">
+
+   <description url="http://localhost:7182/edu.rosehulman.chatsite/">
+      This software provides multicast chat support for Eclipse IDE
+and uses the UDP 5000 port for communication.
+   </description>
+
+   <copyright url="http://www.rose-hulmna.edu/~rupakhet">
+      Copyright lololololol
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <plugin
+         id="edu.rosehulman.chat"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="edu.rosehulman.chat.crextension"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
